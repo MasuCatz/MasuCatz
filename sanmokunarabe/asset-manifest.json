@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/MasuCatz/sanmokunarabe/static/css/main.55d72bbf.chunk.css",
+    "main.js": "/MasuCatz/sanmokunarabe/static/js/main.3822123f.chunk.js",
+    "main.js.map": "/MasuCatz/sanmokunarabe/static/js/main.3822123f.chunk.js.map",
+    "runtime-main.js": "/MasuCatz/sanmokunarabe/static/js/runtime-main.9c1f9316.js",
+    "runtime-main.js.map": "/MasuCatz/sanmokunarabe/static/js/runtime-main.9c1f9316.js.map",
+    "static/js/2.a2c56392.chunk.js": "/MasuCatz/sanmokunarabe/static/js/2.a2c56392.chunk.js",
+    "static/js/2.a2c56392.chunk.js.map": "/MasuCatz/sanmokunarabe/static/js/2.a2c56392.chunk.js.map",
+    "index.html": "/MasuCatz/sanmokunarabe/index.html",
+    "precache-manifest.98d355858ec6f13f734baadd64d97701.js": "/MasuCatz/sanmokunarabe/precache-manifest.98d355858ec6f13f734baadd64d97701.js",
+    "service-worker.js": "/MasuCatz/sanmokunarabe/service-worker.js",
+    "static/css/main.55d72bbf.chunk.css.map": "/MasuCatz/sanmokunarabe/static/css/main.55d72bbf.chunk.css.map",
+    "static/js/2.a2c56392.chunk.js.LICENSE.txt": "/MasuCatz/sanmokunarabe/static/js/2.a2c56392.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9c1f9316.js",
+    "static/js/2.a2c56392.chunk.js",
+    "static/css/main.55d72bbf.chunk.css",
+    "static/js/main.3822123f.chunk.js"
+  ]
+}
